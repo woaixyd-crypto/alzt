@@ -1,6 +1,6 @@
-# 艾力扎提个人简历网站
+# alzt
 
-这是一个可直接部署到 GitHub Pages 的静态个人简历网站。
+艾力扎提的个人简历网站，可直接部署到 GitHub Pages。
 
 ## 文件说明
 
@@ -11,11 +11,11 @@
 
 ## GitHub Pages 部署
 
-1. 新建 GitHub 仓库。
-2. 上传本目录下所有文件。
-3. 在仓库 `Settings -> Pages` 中选择 `Deploy from a branch`。
-4. 分支选择 `main`，目录选择 `/root`。
-5. 保存后等待 GitHub Pages 生成访问链接。
+仓库 Pages 设置建议：
+
+- Source: Deploy from a branch
+- Branch: `main`
+- Folder: `/root`
 
 ## 展示边界
 
